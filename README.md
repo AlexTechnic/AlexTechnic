@@ -1,16 +1,17 @@
-### Hi there 👋
+### Hello there 👋
 
-<!--
-**AlexTechnic/AlexTechnic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Alex (Oleksii), and I'm from Kyiv, Ukraine. 
 
-Here are some ideas to get you started:
+I'm all about industrial mechatronics and automation.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Specializing in textile manufacturing and other industrial equipment. 
+
+I work and collaborate as a freelancer / self-employed specialist / hobbyist.
+
+Currently I'm studying 
+
+- Computer Science at GoIT University (a branch of Woolf University) 
+
+- Robotics Engineering at IU University of Applied Sciences.
+
+You can reach me via email at alex.technic.2020@gmail.com.
