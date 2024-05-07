@@ -2,13 +2,13 @@
 
 I'm Alex (Oleksii), and I'm from Kyiv, Ukraine. 
 
-I'm all about industrial mechatronics and automation.
+I'm all about technical things, electrical, industrial mechatronics and automation,
 
-Specializing in textile manufacturing and other industrial equipment. 
+specializing in textile manufacturing and other manufactoring lines industrial equipment. 
 
 I work and collaborate as a freelancer / self-employed specialist / hobbyist.
 
-Currently I'm studying 
+Currently (2024) I'm studying 
 
 - Computer Science at GoIT University (a branch of Woolf University) 
 
