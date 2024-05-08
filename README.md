@@ -10,8 +10,8 @@ I work and collaborate as a freelancer / self-employed specialist / hobbyist.
 
 Currently (2024) I'm studying 
 
-- Computer Science at GoIT University (a branch of Woolf University) 
+- Computer Science at GoIT Neoversity (a branch of Woolf University) 
 
-- Robotics Engineering at IU University of Applied Sciences.
+- Robotics Engineering at IU International University of Applied Sciences.
 
 You can reach me via email at alex.technic.2020@gmail.com.
